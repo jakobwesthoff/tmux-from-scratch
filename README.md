@@ -9,3 +9,4 @@ If you are interested my currently used personal configuration and setup, you ca
 ## Videos
 
 * [Unleash Your Terminal's Full Potential | tmux from scratch](https://youtu.be/SRtvt3MxWrM)
+* [Tmux Visual Transformation: Statusbar & Theming | tmux from Scratch Part 2](https://youtu.be/WwRljAR9N30)
